@@ -1,0 +1,19 @@
+.my-custom-row {
+    background-color: bisque;
+    height: 200px;
+}
+
+.my-custom-row2 {
+    background-color:burlywood;
+    height: 200px;
+}
+
+.my-custom-row3 {
+    background-color:coral;
+    height: 200px;
+}
+.my-custom-row4 {
+    background-color:gray;
+    height: 200px;
+    color: white;
+}
